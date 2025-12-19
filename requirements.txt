@@ -5,3 +5,4 @@ streamlit==1.35.0
 google-serp-api
 googlesearch-python
 matplotlib
+from serapapi import Googlesearch
